@@ -1,0 +1,13 @@
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Project11\WPF_Northwind_Db\WPF_Northwind_Db\ClassLibrary\bin\Debug\NORTHWND.MDF
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Project11\WPF_Northwind_Db\WPF_Northwind_Db\ClassLibrary\bin\Debug\NORTHWND_log.ldf
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Project11\WPF_Northwind_Db\WPF_Northwind_Db\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Project11\WPF_Northwind_Db\WPF_Northwind_Db\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Project11\WPF_Northwind_Db\WPF_Northwind_Db\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Project11\WPF_Northwind_Db\WPF_Northwind_Db\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Project11\WPF_Northwind_Db\WPF_Northwind_Db\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Project11\WPF_Northwind_Db\WPF_Northwind_Db\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Project11\WPF_Northwind_Db\WPF_Northwind_Db\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Project11\WPF_Northwind_Db\WPF_Northwind_Db\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Project11\WPF_Northwind_Db\WPF_Northwind_Db\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Project11\WPF_Northwind_Db\WPF_Northwind_Db\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\Project11\WPF_Northwind_Db\WPF_Northwind_Db\ClassLibrary\obj\Debug\ClassLibrary.pdb

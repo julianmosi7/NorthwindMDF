@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind", "Northwind\Northwind.csproj", "{B7F449F0-5D5A-4257-8C63-4BDBFDA32809}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{1B1FD0FB-9D82-4552-9445-F7D981B55EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7F449F0-5D5A-4257-8C63-4BDBFDA32809}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F449F0-5D5A-4257-8C63-4BDBFDA32809}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F449F0-5D5A-4257-8C63-4BDBFDA32809}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F449F0-5D5A-4257-8C63-4BDBFDA32809}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1FD0FB-9D82-4552-9445-F7D981B55EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1FD0FB-9D82-4552-9445-F7D981B55EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1FD0FB-9D82-4552-9445-F7D981B55EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1FD0FB-9D82-4552-9445-F7D981B55EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1AF5B7D-6E64-409E-A997-090363006F26}
+	EndGlobalSection
+EndGlobal
